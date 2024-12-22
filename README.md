@@ -1,7 +1,9 @@
-Pencil Sketch Generator using OpenCV and Matplotlib
+Pencil Sketch Generator using OpenCV and Matplotlib 
+
 This project demonstrates how to transform a color image into a pencil sketch using Python, OpenCV, and Matplotlib. The process involves image preprocessing steps such as grayscale conversion, inversion, blurring, and blending, culminating in a visually appealing pencil sketch effect.
 
 Features
+
 Read and Display Original Image:
 Load the input image from the specified file path.
 Display the original image using Matplotlib.
@@ -31,9 +33,13 @@ Read the Input Image:
 Load the image from the specified path and convert it from BGR (OpenCV format) to RGB (Matplotlib format).
 
 Step-by-Step Transformation:
+
 Step 1: Display the original image.
+
 Step 2: Convert the image to grayscale.
+
 Step 3: Invert the grayscale image.
+
 Step 4: Apply Gaussian blur to the inverted image.
 
 Custom Blending Function:
@@ -44,8 +50,11 @@ Display the original image and the pencil sketch side-by-side using Matplotlib.
 
 Requirements
 Python 3.x
+
 Libraries:
+
 opencv-python
+
 matplotlib
 
 Key Concepts Demonstrated 
