@@ -2,7 +2,7 @@
 
 This project demonstrates how to transform a color image into a pencil sketch using Python, OpenCV, and Matplotlib. The process involves image preprocessing steps such as grayscale conversion, inversion, blurring, and blending, culminating in a visually appealing pencil sketch effect.
 
-Features::
+#**Features::**
 
 Read and Display Original Image::
 Load the input image from the specified file path.
